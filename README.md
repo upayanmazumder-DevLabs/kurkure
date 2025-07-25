@@ -1,6 +1,6 @@
-# Daily planner
+# Kurkure
 
-Daily planner features a monthly calender that can be used to track daily activities, appointments, or tasks. Data for each task is stored onchain. For each day, a historic fact can be queried using HTTPS outcalls, which is a feature that allows ICP canisters to obtain data from external sources.
+Kurkure features a monthly calender that can be used to track daily activities, appointments, or tasks. Data for each task is stored onchain. For each day, a historic fact can be queried using HTTPS outcalls, which is a feature that allows ICP canisters to obtain data from external sources.
 
 This application's logic is written in [Rust](https://internetcomputer.org/docs/building-apps/developer-tools/cdks/rust/intro-to-rust), a primary programming language for developing canisters on ICP.
 
@@ -26,5 +26,5 @@ To migrate your ICP Ninja project off of the web browser and develop it locally,
 ### 1. Download your project from ICP Ninja using the 'Download files' button on the upper left corner under the pink ninja star icon.
 
 ### 2. Open the `BUILD.md` file for further instructions.
-# Daily_Planner
-# Daily_planner
+# Kurkure
+# Kurkure
