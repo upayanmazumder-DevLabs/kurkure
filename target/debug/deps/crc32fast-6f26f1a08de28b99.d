@@ -1,0 +1,10 @@
+D:\upayanmazumder-DevLabs\kurkure\target\debug\deps\crc32fast-6f26f1a08de28b99.d: C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\lib.rs C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\baseline.rs C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\combine.rs C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\specialized\mod.rs C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\table.rs C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\specialized\pclmulqdq.rs
+
+D:\upayanmazumder-DevLabs\kurkure\target\debug\deps\libcrc32fast-6f26f1a08de28b99.rmeta: C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\lib.rs C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\baseline.rs C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\combine.rs C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\specialized\mod.rs C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\table.rs C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\specialized\pclmulqdq.rs
+
+C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\lib.rs:
+C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\baseline.rs:
+C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\combine.rs:
+C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\specialized\mod.rs:
+C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\table.rs:
+C:\Users\upaya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.4.2\src\specialized\pclmulqdq.rs:
